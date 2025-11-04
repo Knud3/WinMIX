@@ -25,7 +25,8 @@ The process is very simple, TL;DR: Create a bootable USB drive, copy the `autoun
 1. Use the official [Windows 11 Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows11) to create a bootable USB drive.
    > The `en-US x64` version is strongly recommended, as other versions may not function correctly. Additional language packs to change the display language can be installed later.
 2. Place the `autounattend.xml` file in the root directory of the USB drive.
-3. Boot the computer from the USB drive to begin the automated installation.
+   <br/>Here is direct link: https://github.com/Knud3/WinMIX/raw/refs/heads/main/autounattend.xml
+4. Boot the computer from the USB drive to begin the automated installation.
 
 The installation process is almost entirely automatic; you only need to select the installation drive/partition.
 
